@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{573:function(n,t,e){"use strict";e.r(t);var s=e(39),a=Object(s.a)({},(function(){var n=this.$createElement;return(this._self._c||n)("h1",{staticClass:"inverted"},[this._v("Página no encontrada :(")])}),[],!1,null,null,null);t.default=a.exports}}]);
